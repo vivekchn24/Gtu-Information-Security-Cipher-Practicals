@@ -41,3 +41,6 @@ This repository contains Python code implementations of classical encryption alg
 
 - 📄 File: `caesar_cipher.py`
 - 📄 File: `monoalphabetic_cipher.py`
+
+📌 Disclaimer
+This repository is for academic and educational purposes only. These cipher algorithms are classical and not secure for real-world applications today.
